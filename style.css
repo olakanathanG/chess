@@ -1,0 +1,41 @@
+.white{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+}
+.black{
+    background-color: black;
+    width: 20px;
+    height: 20px;
+}
+table{
+    width: 500px;
+    height: 500px;
+    border: 1px solid gold;
+    border-collapse: collapse;
+}
+
+
+.abc{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(243, 12, 12);
+}  
+.num{
+    width: 15px;
+    height: 10px;
+    background-color: rgb(243, 14, 14);
+    text-align: center;
+} 
+.num1{
+    width: 15px;
+    height: 10px;
+    background-color: rgb(243, 14, 14);
+    text-align: center;
+}
+.ght{
+    width: 15px;
+    height: 10px;
+    background-color: rgb(243, 14, 14);
+    text-align: center;
+}
